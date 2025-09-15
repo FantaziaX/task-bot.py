@@ -1,1 +1,119 @@
-
+{
+  "users": {
+    "7944675607": {
+      "profile": {
+        "username": "Agashka093",
+        "first_seen": 1757830948,
+        "last_seen": 1757873848,
+        "time_spent": 9
+      },
+      "economy": {
+        "coins": 0,
+        "earned": 0,
+        "spent": 100
+      },
+      "inventory": [
+        "🎒 Рюкзак 6 ур"
+      ],
+      "quests": {
+        "active": {
+          "id": "q27",
+          "text": "Выиграй матч TDM без смертей",
+          "reward": 5
+        },
+        "history": [],
+        "taken_history": [],
+        "last_taken_at": 0
+      },
+      "stats": {
+        "quests_completed": 0,
+        "actions": []
+      },
+      "admin_state": {
+        "awaiting_givecoins": true,
+        "awaiting_giveitem": false,
+        "awaiting_password": true,
+        "awaiting_admin_pass": false,
+        "is_admin": true,
+        "awaiting_user_id": false,
+        "awaiting_coins": false
+      },
+      "flags": {
+        "waiting_feedback": false,
+        "expect_guess": false
+      }
+    },
+    "6013743243": {
+      "profile": {
+        "username": "Dumon4uc",
+        "first_seen": 1757873759,
+        "last_seen": 1757873759,
+        "time_spent": 0,
+        "completed_quests": 0
+      },
+      "economy": {
+        "coins": 100,
+        "earned": 0,
+        "spent": 0
+      },
+      "inventory": [],
+      "quests": {
+        "active": null,
+        "history": []
+      },
+      "admin_state": {
+        "awaiting_admin_pass": false,
+        "awaiting_user_id": false,
+        "awaiting_coins": false,
+        "awaiting_item": false,
+        "is_admin": false
+      },
+      "game_state": {
+        "awaiting_guess": false,
+        "target_number": 0
+      },
+      "feedback": [],
+      "contact_state": {
+        "awaiting_quest_submit": false,
+        "awaiting_bug_report": false,
+        "awaiting_bot_request": false
+      }
+    },
+    "7837521913": {
+      "profile": {
+        "username": "Walter_Code",
+        "first_seen": 1757873759,
+        "last_seen": 1757873759,
+        "time_spent": 0,
+        "completed_quests": 0
+      },
+      "economy": {
+        "coins": 100,
+        "earned": 0,
+        "spent": 0
+      },
+      "inventory": [],
+      "quests": {
+        "active": null,
+        "history": []
+      },
+      "admin_state": {
+        "awaiting_admin_pass": false,
+        "awaiting_user_id": false,
+        "awaiting_coins": false,
+        "awaiting_item": false,
+        "is_admin": false
+      },
+      "game_state": {
+        "awaiting_guess": false,
+        "target_number": 0
+      },
+      "feedback": [],
+      "contact_state": {
+        "awaiting_quest_submit": false,
+        "awaiting_bug_report": false,
+        "awaiting_bot_request": false
+      }
+    }
+  }
+}
