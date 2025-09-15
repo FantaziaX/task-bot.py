@@ -10,7 +10,7 @@ from aiogram.filters import Command
 from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery, Message
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 
-# ================== Настройки ===================
+# ================== Настройки ==================
 TOKEN = os.getenv('BOT_TOKEN', '8332411735:AAFzUvuzPnESLyQXxq1LTvO1HEin0LfSZQg')
 ADMIN_ID = int(os.getenv('ADMIN_ID', '7944675607'))
 ADMIN_PASSWORD = "gg666gg3_123"
